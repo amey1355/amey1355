@@ -86,7 +86,7 @@
 
 ---
 
-## 🎲 Fun Facts & Interests
+## 🎲 Interests
 
 - 🎮 Avid gamer—always exploring new worlds and game mechanics.
 - 🎨 Into 3D, art, game mechanics and the backend magic that powers it all.
