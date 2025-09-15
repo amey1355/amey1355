@@ -64,7 +64,7 @@
 
 ## 🌟 Featured Projects
 
-- **[AR Based Human Anatomy Learning](https://github.com/amey1355/AR_based_HumanAnatomy_Learning):**
+- **AR Based Human Anatomy Learning:**
   > Unity3D AR app w/ AI-powered quizzes, Blender-modeled organs & real-time analytics.
 
 - **[HomeHavenOnline](https://github.com/amey1355/HomeHavenOnline):**  
