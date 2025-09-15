@@ -1,9 +1,5 @@
 <!-- GitHub Profile README -->
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/amey1355?v=4" width="120" style="border-radius:50%" alt="amey1355's avatar"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Amey Sawant</h1>
 <h3 align="center">Computer Engineering Student | AR/VR Enthusiast | Game & Full-Stack Developer</h3>
 
