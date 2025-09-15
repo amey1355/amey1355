@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/amey1355?v=4" width="120" style="border-radius:50%" alt="amey1355's avatar"/>
+  <img src="https://avatars.githubusercontent.com/u/amey1355?v=4" width="120" style="border-radius:50%" alt="amey1355's "/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Amey Sawant</h1>
