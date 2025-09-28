@@ -46,7 +46,7 @@
 ![Unity3D](https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
-![Substance Suite](https://img.shields.io/badge/-Substance%20Painter-FF6A00?logo=adobe&logoColor=white)
+![Substance Suite](https://img.shields.io/badge/-Substance%20Suite-FF6A00?logo=adobe&logoColor=white)
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
