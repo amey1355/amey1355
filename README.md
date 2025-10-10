@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>
-    🛠️ Building immersive experiences, scalable platforms, and interactive worlds at the intersection of technology & creativity.
+    🛠️ Building immersive experiences, scalable platforms, and interactive worlds at the intersection of technology & creativity. 
   </b>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student specializing in **AR/VR, Game Development, and Full-Stack Web Development**.
+- 🎓 Computer Engineering student specializing in **AR/VR, Game Development, and Full-Stack Web Development (yeah, mostly backend😁)**.
 - 💡 I thrive on solving real-world problems with creative, cutting-edge solutions—whether it's backend pipelines, high-fidelity 3D models, or interactive apps.
 - 🌐 Hands-on with the **MERN stack, Unity3D, Unreal Engine, Blender, and more**.
 - ✨ Inspired by anime, movies, and the endless possibilities of interactive tech.
@@ -98,3 +98,4 @@
 <p align="center">
   <i>“Let’s build the future—one immersive experience at a time!”</i>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amey1355&label=Profile%20views&color=0e75b6&style=flat" alt="amey" /> </p>
