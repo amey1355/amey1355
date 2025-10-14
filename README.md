@@ -64,17 +64,20 @@
 
 ## 🌟 Featured Projects
 
-- **AR Based Human Anatomy Learning:**
+- **Subscription Management System (API):**  
+  > Scalable subscription tracking API with secure authentication, database modeling, and workflow automation using modern Node.js stack.
+---
+- **AR Based Human Anatomy Learning: [Patent & Publication in-progress]**
   > Unity3D AR app w/ AI-powered quizzes, Blender-modeled organs & real-time analytics.
 
 - **[HomeHavenOnline](https://github.com/amey1355/HomeHavenOnline):**  
-  Full-stack MERN platform for seamless property listings & seller-buyer interaction.
+  > Full-stack MERN platform for seamless property listings & seller-buyer interaction.
 
-- **Gym Management System:**  
-  Secure Django+DRF backend with role-based access and payment monitoring.
+- **Gym Management System: [Copyright]**  
+  > Secure Django+DRF backend with role-based access and payment monitoring.
 
 - **[Nike Landing Page](https://github.com/amey1355/nike-landing-page):**  
-  Responsive React.js + Tailwind CSS project for pixel-perfect UI/UX.
+  > Responsive React.js + Tailwind CSS project for pixel-perfect UI/UX.
 
 ---
 
