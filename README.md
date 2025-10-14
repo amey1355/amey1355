@@ -66,7 +66,7 @@
 
 - **Subscription Management System (API):**  
   > Scalable subscription tracking API with secure authentication, database modeling, and workflow automation using modern Node.js stack.
----
+
 - **AR Based Human Anatomy Learning: [Patent & Publication in-progress]**
   > Unity3D AR app w/ AI-powered quizzes, Blender-modeled organs & real-time analytics.
 
