@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>
-    🛠️ Building immersive experiences, scalable platforms, and interactive worlds at the intersection of technology & creativity. 
+    🛠️ Building immersive experiences, scalable platforms, and interactive worlds at the intersection of technology & creativity.
   </b>
 </p>
 
@@ -15,10 +15,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student specializing in **AR/VR, Game Development, and Full-Stack Web Development (yeah, mostly backend😁)**.
-- 💡 I thrive on solving real-world problems with creative, cutting-edge solutions—whether it's backend pipelines, high-fidelity 3D models, or interactive apps.
-- 🌐 Hands-on with the **MERN stack, Unity3D, Unreal Engine, Blender, and more**.
-- ✨ Inspired by anime, movies, and the endless possibilities of interactive tech.
+- 🎓 Computer Engineering student specializing in **Backend Development, AR/VR, Game Development, and Full-Stack Web Development**.
+- 💡 Passionate about designing **scalable backend systems**, interactive 3D/AR apps, and production-ready platforms.
+- 🌐 Hands-on with **MERN stack, Next.js, Unity3D, Unreal Engine, Blender**, and modern cloud-native workflows.
+- ✨ Anime, games, and real-world problems inspire many of the experiences I build.
 
 ---
 
@@ -26,6 +26,7 @@
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -34,16 +35,17 @@
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 **Game / AR-VR:**  
-![Unity3D](https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
 ![Substance Suite](https://img.shields.io/badge/-Substance%20Suite-FF6A00?logo=adobe&logoColor=white)
@@ -55,32 +57,33 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+**DevOps / Cloud:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[Distrubuted Music Platform](https://github.com/amey1355/distributed-music-platform):**
-  > A microservice-based music streaming platform built with Node.js, TypeScript, RabbitMQ, Redis, and Docker — designed for scalable, event-driven service communication and distributed processing.
+- **[Distributed Music Platform](https://github.com/amey1355/distributed-music-platform):**  
+  > Microservice-based scalable music streaming platform using **Node.js, TypeScript, RabbitMQ, Redis, Docker, AWS ECS, PostgreSQL + MongoDB**, and automated CI/CD deployment.
 
 - **Subscription Management System (API):**  
-  > Scalable subscription tracking API with secure authentication, database modeling, and workflow automation using modern Node.js stack.
+  > API for managing subscriptions with **Node.js, Express.js, MongoDB**, secure JWT auth, email workflows (Upstash), and **rate limiting & bot protection using Arcjet**.
 
-- **AR Based Human Anatomy Learning Platform: [Published Research Paper] [Patent in-progress]**
-  > Unity3D AR app w/ AI-powered quizzes, Blender-modeled organs & real-time analytics.
+- **AR Based Human Anatomy Learning Platform** *(Research Paper Published · Patent in Progress)*  
+  > Unity3D-based AR experience with Blender-modeled organs, AI quizzes, and real-time learning analytics.
 
 - **[HomeHavenOnline](https://github.com/amey1355/HomeHavenOnline):**  
-  > Full-stack MERN platform for seamless property listings & seller-buyer interaction.
+  > Full-stack MERN application enabling property listings and buyer-seller interaction.
 
-- **Gym Management System: [Copyright]**  
-  > Secure Django+DRF backend with role-based access and payment monitoring.
+- **Gym Management System** *(Copyright)*  
+  > Secure backend using Django + DRF with role-based access and payment tracking.
 
 - **[Nike Landing Page](https://github.com/amey1355/nike-landing-page):**  
-  > Responsive React.js + Tailwind CSS project for pixel-perfect UI/UX.
+  > Pixel-perfect, responsive UI built with **React.js + TailwindCSS**.
 
 ---
 
@@ -94,10 +97,10 @@
 
 ## 🎲 Interests
 
-- 🎮 Avid gamer—always exploring new worlds and game mechanics.
-- 🎨 Into 3D, art, game mechanics and the backend magic that powers it all.
-- 📚 Anime & movie buff (One Piece, Ghibli films) fueling creative storytelling.
-- 🚀 Forever experimenting with AR/VR, AI, and full-stack wizardry.
+- 🎮 Exploring game design principles & immersive mechanics  
+- 🎨 3D art, AR/VR experiences, and backend systems that bring them to life  
+- 📚 Anime & movies (One Piece, Ghibli — always inspiring creativity)  
+- 🚀 Constantly building new tools, experiments, and full-stack platforms  
 
 ---
 
