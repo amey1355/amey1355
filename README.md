@@ -64,6 +64,9 @@
 
 ## 🌟 Featured Projects
 
+- **[Distrubuted Music Platform](https://github.com/amey1355/distributed-music-platform):**
+  > A microservice-based music streaming platform built with Node.js, TypeScript, RabbitMQ, Redis, and Docker — designed for scalable, event-driven service communication and distributed processing.
+
 - **Subscription Management System (API):**  
   > Scalable subscription tracking API with secure authentication, database modeling, and workflow automation using modern Node.js stack.
 
