@@ -68,7 +68,7 @@
 ## 🌟 Featured Projects
 
 - **[Distributed Music Platform](https://github.com/amey1355/distributed-music-platform):**  
-  > Microservice-based scalable music streaming platform using **Node.js, TypeScript, RabbitMQ, Redis, Docker, AWS ECS, PostgreSQL + MongoDB**, and automated CI/CD deployment.
+  > Microservice-based scalable music streaming platform using **Node.js, TypeScript, RabbitMQ, Redis, Docker, AWS ECS, PostgreSQL + MongoDB**, and automated CI/CD deployment. Implemented secure JWT-based authentication with standardized Authorization Bearer tokens across microservices, enabling trusted service-to-service authorization and role-based access control.
 
 - **Subscription Management System (API):**  
   > API for managing subscriptions with **Node.js, Express.js, MongoDB**, secure JWT auth, email workflows (Upstash), and **rate limiting & bot protection using Arcjet**.
