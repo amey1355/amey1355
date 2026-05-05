@@ -15,10 +15,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student specializing in **Backend Development, AR/VR, Game Development, and Full-Stack Web Development**.
-- 💡 Passionate about designing **scalable backend systems**, interactive 3D/AR apps, and production-ready platforms.
-- 🌐 Hands-on with **MERN stack, Next.js, Unity3D, Unreal Engine, Blender**, and modern cloud-native workflows.
-- ✨ Anime, games, and real-world problems inspire many of the experiences I build.
+- 🛠️ Backend-focused full-stack engineer working on **scalable systems and clean system design**  
+- ⚙️ Build **resilient architectures** with async workflows, caching, and event-driven patterns  
+- ☁️ Ship cloud-native apps using **Node.js, TypeScript, PostgreSQL, Redis, Docker, and AWS**  
+- 🔐 Interested in **auth systems, API security, and fault-tolerant backend design**  
+- 🚀 Enjoy designing **microservices and distributed systems** that are simple, reliable, and maintainable  
+- 🎮 Study **game mechanics and player behavior** to better understand user interactions and system design decisions  
 
 ---
 
@@ -89,7 +91,6 @@
 
 ## 💬 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ameysawant1355)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/amey1355)
 - 📧 Email: [assawant06@gmail.com](mailto:assawant06@gmail.com)
 
